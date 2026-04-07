@@ -1,4 +1,4 @@
-package com.tenco.library.dto;
+package my.dto;
 
 import lombok.*;
 
