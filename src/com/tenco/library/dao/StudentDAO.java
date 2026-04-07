@@ -1,7 +1,8 @@
 package com.tenco.library.dao;
 
+import com.tenco.library.dto.Student;
 import com.tenco.library.util.DatabaseUtil;
-import my.dto.Student;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
